@@ -18,7 +18,6 @@ ggplot(flights, aes(x = distance, y = hour)) +
   geom_col()
 ```
 
-
 ```{r}
 library()
 ```
